@@ -1,0 +1,64 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+  background: aqua;
+  
+}
+h1
+{
+ 
+  position: absolute;
+  top: 10rem;
+  left: 40% ;
+  color: violet;
+}
+button
+{
+  padding: 10px;
+  background: white;
+  border-color: white;
+  border-radius: 6px;
+  font-size:2rem
+}
+button:hover{
+  padding: 8px;
+}
+input
+{
+  font-size: 2rem;
+  width: 10em;
+  height: 2em;
+  background: white;
+  border-radius: 10px;
+
+}
+#icon
+{
+  color: violet;
+  position: absolute;
+  top: 0px;
+  left: 7em;
+}
+#delete
+{
+  color: violet;;
+  position: absolute;
+  top: 0px;
+  left: 13em
+  
+}
+.container
+{
+  position: absolute;
+  top: 15em;
+  left: 50px;
+}
+input:active
+{
+  font-size: 2rem;
+  width: 10em;
+  height: 2em;
+  background: white;
+  border-radius: 10px;
+}
